@@ -7,11 +7,11 @@ Java Servlet Application
 	(name, password)
 
 - Admin users:
-	root, 12345678 
-	a, a
+root, 12345678
+a, a
 
 - Regular users:
-	b, b
-	Joe, 2345
-	Rose, 4567
-	Vladimir, 5678
+b, b
+Joe, 2345
+Rose, 4567
+Vladimir, 5678
