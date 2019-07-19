@@ -1,3 +1,5 @@
+Java Servlet Application
+
 1. Create a database named 'sketch_n_share'
 2. Rewrite pom.xml passwords to fit your needs
 3. Compile with Maven and deploy via tomcat.
